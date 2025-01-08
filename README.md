@@ -1,2 +1,2 @@
-# pelu-system
-Sistema para peluquería
+# sistema-de-prueba
+un CRUD feo
